@@ -1,0 +1,1 @@
+{{$name}} umur <br> {{$umur}} (Real)
